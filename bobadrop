@@ -1,1 +1,36 @@
-<!DOCTYPE: HTML>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jay's Website</title>
+    </head>
+   
+    
+    <style>
+        hr {
+        color:red
+        }
+       p {
+           font-size:20px;
+       }
+       li {
+           font-size:20px;
+       }
+        
+    </style>
+    
+    <body style= "background-color: lightgreen;">
+    <img>
+    <img src = "https://static.vecteezy.com/system/resources/previews/003/755/365/non_2x/holidays-greeting-card-for-winter-happy-holidays-fir-tree-branches-frame-with-lettering-3d-ball-vector.jpg"
+    width="100px" height="100px";> <h1>Jay Rosemark</h1>
+    <hr class= "line">
+    
+    <h1>BobaDrops:</h1>
+    <ul>
+        <li>Happy Holidays!</li>
+        
+    <img src = "https://content.mycutegraphics.com/graphics/christmas/christmas-tree-in-tree-stand.png" height="125px">
+    </ul>
+    <hr>
+    <br>
+    
+</html>
